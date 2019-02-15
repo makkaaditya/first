@@ -36,7 +36,7 @@ table{
   width: 50%;
   font-size: 100%;
   border-radius: 4%;
-  background-color: #FFE4C4
+  background-color: #FFE4C4;
 }
 @media only screen and (min-width: 0px)and (max-width: 480px) {
   .parent{

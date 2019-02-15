@@ -1,0 +1,46 @@
+{
+ "basic":{
+ "image":"adi.jpg",
+ "name":"Aditya Makka",
+ "email":"makkaaditya@gmail.com",
+ "number":"6303013731",
+ "address":"suryanarayana puram,KAKINADA,533001."
+},
+ "career":{
+  "objective":" To gain new experience and to utilize my interpersonal skills to achieve these goals."
+},
+ "education":[
+   {
+     "institute":"Pragati Engineering College",
+     "degree":"Btech",
+     "passout":"2021"
+   },
+   {
+     "institute":"Sri Chaitanya Junior College",
+     "degree":"Intermediate",
+     "passout":"2017"
+   },
+   {
+     "institute":"Sri Chaitanya Techno School",
+     "degree":"SSC",
+     "passout":"2015"
+   }
+ ],
+  "achievements":{
+    "workshops":"Hydspin,Augmented reality,Hour of code"
+  },
+  "technicalskills":[
+    {
+      "info":"Programming Languages",
+      "details":["c","c++","java","python"]
+    },
+    {
+      "info":"Databases",
+      "details":["oracle","mysql","tinydb"]
+    },
+    {
+      "info":"Operating Systems",
+      "details":["windows","android","mac os","linux"]
+    }
+  ]
+}
